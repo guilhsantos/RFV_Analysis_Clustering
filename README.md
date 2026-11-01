@@ -1,3 +1,5 @@
+🇧🇷 **Português** · [🇺🇸 English](README.en.md)
+
 # Segmentação de compras de e-commerce com K-Means
 
 Clusterização de mais de 500 mil linhas de compras de um e-commerce para separar perfis de compra e propor ações de marketing para cada grupo.
